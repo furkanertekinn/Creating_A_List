@@ -1,0 +1,14 @@
+C:\Users\Furkan\source\repos\UygulamaList\UygulamaList\bin\Debug\UygulamaList.exe.config
+C:\Users\Furkan\source\repos\UygulamaList\UygulamaList\bin\Debug\UygulamaList.exe
+C:\Users\Furkan\source\repos\UygulamaList\UygulamaList\bin\Debug\UygulamaList.pdb
+C:\Users\Furkan\source\repos\UygulamaList\UygulamaList\obj\Debug\UygulamaList.csproj.AssemblyReference.cache
+C:\Users\Furkan\source\repos\UygulamaList\UygulamaList\obj\Debug\UygulamaList.csproj.SuggestedBindingRedirects.cache
+C:\Users\Furkan\source\repos\UygulamaList\UygulamaList\obj\Debug\UygulamaList.Properties.Resources.resources
+C:\Users\Furkan\source\repos\UygulamaList\UygulamaList\obj\Debug\UygulamaList.csproj.GenerateResource.cache
+C:\Users\Furkan\source\repos\UygulamaList\UygulamaList\obj\Debug\UygulamaList.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\source\repos\UygulamaList\UygulamaList\obj\Debug\UygulamaList.exe
+C:\Users\Furkan\source\repos\UygulamaList\UygulamaList\obj\Debug\UygulamaList.pdb
+C:\Users\Furkan\source\repos\UygulamaList\UygulamaList\obj\Debug\UygulamaList.Form1.resources
+C:\Users\Furkan\source\repos\UygulamaList\UygulamaList\obj\Debug\UygulamaList.sistemGiris.resources
+C:\Users\Furkan\source\repos\UygulamaList\UygulamaList\obj\Debug\UygulamaList.yeniKayit.resources
+C:\Users\Furkan\source\repos\UygulamaList\UygulamaList\obj\Debug\UygulamaList.kayitListe.resources
